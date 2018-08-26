@@ -6,7 +6,7 @@ They come in very handy for solving [OverTheWire Krypton challenges](http://over
 
 More resources:
 - [dcode.fr](https://www.dcode.fr/vigenere-cipher)
-- [the guy from whom I "borrowed" the assignment](https://github.com/sdsunjay/kasiski)
+- [the guy from whom I got the assignment papers](https://github.com/sdsunjay/kasiski)
 - [overthewire](http://overthewire.org/)
 
 ## Usage
