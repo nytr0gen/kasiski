@@ -1,8 +1,13 @@
-# Vigenere Break Cipher Implementation
+# Vigenere Break Cipher Tools
 
 Tools for breaking a vigenere cipher. Read more about them in [asgn 1](https://github.com/sdsunjay/kasiski/blob/master/asgn1.pdf) and [asgn 2](https://github.com/sdsunjay/kasiski/blob/master/asgn2.pdf)
 
 They come in very handy for solving [OverTheWire Krypton challenges](http://overthewire.org/wargames/krypton/)
+
+More resources:
+- [dcode.fr](https://www.dcode.fr/vigenere-cipher)
+- [the guy from whom I "borrowed" the assignment](https://github.com/sdsunjay/kasiski)
+- [overthewire](http://overthewire.org/)
 
 ## Usage
 ```bash
@@ -13,8 +18,8 @@ $ python kasisky.py [ -v ] [ -m length ] [ infile [ outfile ] ]
 ```
 
 ## Frequency Table`ftable.py`
-``` python ftable.py -s 1 -p 6 krypton4.in
-$
+```
+$ python ftable.py -s 1 -p 6 krypton4.in
 Total chars: 242
 A:          0 (  0.00%)
 B:          1 (  0.41%) *
